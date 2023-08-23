@@ -22,3 +22,5 @@ elif a < b and b > idade:
 if a < b or b > idade: print("pelo menos uma condição verdadeira")
 
 if not(a > b): print("negação de true")
+
+print("passei aqui para testar o git")
